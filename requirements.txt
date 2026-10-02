@@ -1,0 +1,6 @@
+pandas>=2.2,<3.0
+numpy>=2.0,<3.0
+matplotlib>=3.9,<4.0
+jupyter>=1.1,<2.0
+cian-parser==2.1.0
+cian-playwright==2.1.0
